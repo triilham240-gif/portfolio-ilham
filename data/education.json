@@ -1,0 +1,30 @@
+[
+    {
+        "university": "SDN Rancawuluh 01",
+        "logo": "images/logo sd.png",
+        "major": "Elementary School",
+        "year": "2011 - 2017",
+        "description": "Ranked 7th in the National Examination (UN) across the entire graduating cohort."
+    },
+    {
+        "university": "MTS As-Salafiyah Luwungragi",
+        "logo": "images/logo mts.png",
+        "major": "Junior High School",
+        "year": "2017 - 2020",
+        "description": "Consistently ranked within the Top 10 of the class."
+    },
+    {
+        "university": "MAS Al-Hikmah 2",
+        "logo": "images/ma1.png",
+        "major": "Natural Sciences (IPA)",
+        "year": "2020 - 2023",
+        "description": "Ranked 2nd consistently from Grade 10 to 12; Selected as an Eligible Student for SNBP (National Selection Based on Academic Merit)."
+    },
+    {
+        "university": "Politeknik Negeri Semarang",
+        "logo": "images/polines-logo.png",
+        "major": "D4 Electronics Engineering Technology",
+        "year": "2023 - Present",
+        "description": "GPA 3.4 of 4.0; Currently in the 6th semester, actively focused on electronics and automation engineering systems."
+    }
+]
